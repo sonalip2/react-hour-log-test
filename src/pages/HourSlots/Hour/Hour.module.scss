@@ -1,0 +1,17 @@
+.hour {
+    flex: 1;
+    height: 7vh;
+    margin: 5px;
+    background-color: #16a085;
+    width: 320px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    cursor: pointer;
+    color: white;
+    font-weight: 400;
+}
+
+.selected {
+    background-color: #e74c3c;
+}
